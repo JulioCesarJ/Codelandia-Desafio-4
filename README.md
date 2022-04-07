@@ -3,7 +3,7 @@ Desafio proposto pelo Yuri Code - Codelândia
 
 - Usado somente HTML e CSS
 
-<img src="Login Codelândia.png" width="400px"> 
+<img src="Login Codelândia.png" width="1000px"> 
 
 <img src="Login Codelândia (mobile).png" width="300px"> 
 
