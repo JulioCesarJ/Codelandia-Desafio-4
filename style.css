@@ -6,6 +6,11 @@
   text-decoration: none;
 }
 
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
 /*Variáveis*/
 :root {
   --green: #04c35c;
@@ -43,7 +48,7 @@
 
 .esq {
   display: grid;
-  padding: 71px 32px 50px 32px;
+  padding: 50px 32px 50px 32px;
   margin: 0 auto;
   max-width: 500px;
   min-width: 320px;
